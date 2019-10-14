@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etDescripcion" type="id"/>
+    <item name="etFechaCreacion" type="id"/>
+    <item name="botonCrear" type="id"/>
+    <item name="aplicarCambios" type="id"/>
+</resources>
